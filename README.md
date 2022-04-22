@@ -4,8 +4,10 @@
 
 **Step 1: Clone**
 
-Download or clone this repo
-
+Download or clone this repo by using the link below:
+```
+https://github.com/JoaoRodriguesRD/dart-OOP-Bank.git
+```
 
 **Step 2: Install Dart**
 
